@@ -168,7 +168,8 @@ const testimonials = [
     name: "Mr. Nelum Amarasena",
     designation: "Senior Lecturer",
     company: "FOC SLIIT Malabe Campus",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+    image:
+      "https://i1.rgstatic.net/ii/profile.image/703619242397696-1544767308232_Q512/Nelum-Chathuranga-Amarasena.jpg",
   },
 ];
 
