@@ -23,6 +23,7 @@ import tailwind from "./tech/tailwind.png";
 import threejs from "./tech/threejs.svg";
 import fishifox from "./company/fishifox.png";
 import elzian from "./company/elzian.png";
+import cambio from "./company/cambio.png";
 
 import CardDetails from "./CardDetails.png";
 import HelpingHands from "./HelpingHands.png";
@@ -57,6 +58,7 @@ export {
   threejs,
   fishifox,
   elzian,
+  cambio,
   HelpingHands,
   CardDetails,
   ProjectSupreme,
